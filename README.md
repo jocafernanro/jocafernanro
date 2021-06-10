@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **jocafernanro/jocafernanro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👾 Tech lead engineer;   🔥 Enterpreneur;   🎨 Creative;
+
+# Creating digital experiencies with impact throught technology.
+
+A Technical Lead Engineer and multidisciplinary developer in Seville. Cloud Native, UI/UX and Responsive Design.
