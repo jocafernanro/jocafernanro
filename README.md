@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 A Technical Lead Engineer and multidisciplinary developer in Seville. Cloud Native, UI/UX and Responsive Design.
 
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocafernanro)](https://github.com/anuraghazra/github-readme-stats/&hide=contribs,stars,issues)
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocafernanro&hide=contribs,stars,issues)](https://github.com/jocafernanro/github-readme-stats)
