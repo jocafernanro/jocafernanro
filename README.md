@@ -25,5 +25,6 @@ A Technical Lead Engineer and multidisciplinary developer in Seville. Cloud Nati
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocafernanro&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-Some jokes :D
+Some jokes :D Refresh for more!
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
