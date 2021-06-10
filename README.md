@@ -23,4 +23,4 @@ A Technical Lead Engineer and multidisciplinary developer in Seville. Cloud Nati
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocafernanro&hide=contribs,stars,issues&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocafernanro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocafernanro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
